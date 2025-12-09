@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "合縁事変",
+  "base_artist": "ラプラス・ダークネス",
+  "createdAt": "2025-12-09T06:37:52.103071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "合縁事変",
+      "artist": "ラプラス・ダークネス",
+      "has_synced": false,
+      "path": "select/01_合縁事変_ラプラス・ダークネス.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "合縁事変",
+      "artist": "ラプラス・ダークネス",
+      "has_synced": true,
+      "path": "select/02_合縁事変_ラプラス・ダークネス.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "合縁事変",
+      "artist": "ラプラス・ダークネス",
+      "has_synced": false,
+      "path": "select/pl_01_合縁事変_ラプラス・ダークネス.txt"
+    }
+  ]
+}
